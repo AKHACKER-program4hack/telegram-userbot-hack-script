@@ -11,7 +11,7 @@ join telegram group ![program4hack](https://t.me/program4hack)
 ## For Educational Purpose Only
 
 ## Video Tutorial
-<a href="https://youtu.be/DrwlW2he3qU"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
+<a href="https://youtu.be/DrwlW2he3qU"><img src="https://img.shields.io/badge/How%20To%20Hack-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/DrwlW2he3qU"><img src="https://img.shields.io/youtube/views/DrwlW2he3qU?style=social">
 
 # Official logo of owner
