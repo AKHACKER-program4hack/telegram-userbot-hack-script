@@ -6,7 +6,6 @@ from userbot.cmdhelp import CmdHelp
 async def hacker(event):
     tacc = 777000
     cmd = event.raw_text.split(" ")
-    print(cmd)
     if cmd[1] == "info":
         info = await borg.get_me()
         d = await event.reply(info.stringify())
